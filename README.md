@@ -34,7 +34,7 @@ The dataset is limited to AAA seasons from 2007–2012. Changes in league enviro
 Each player is evaluated using only their first 200 AAA plate appearances. While this reflects an early scouting window, it introduces variability due to the small sample size in a high-variance sport like baseball.
 
 ### 5. Lack of Contextual Adjustments
-The model does not completely adjust for external factors such as park effects, league difficulty, or quality of competition. These factors may influence raw performance statistics.
+The model does not completely adjust for external factors such as park effects (with the exception of wRC+), league difficulty, or quality of competition. These factors may influence raw performance statistics.
 
 ### 6. Snapshot Limitation
 The model evaluates players based on a single early-career snapshot and does not account for player development, adjustments, or long-term growth trajectories.
